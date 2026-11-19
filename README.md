@@ -49,12 +49,6 @@ Curious about how things work, and occasionally why they don't.
 </p>
 
 <p>
-  <b>👁️ Computer Vision</b><br>
-  Learning how machines see, detect<br>
-  and track the world around them.
-</p>
-
-<p>
   <b>🧠 AI & Embedded Systems</b><br>
   Somewhere between intelligent algorithms<br>
   and real-world hardware.
